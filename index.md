@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
 
-You can use the [editor on GitHub](https://github.com/andrew-rocks/andrew-rocks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you would like to learn more about me, check out my LinkedIn: 
+
+Link to latest resume:
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
